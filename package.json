@@ -1,0 +1,8 @@
+{
+  "name": "njs2",
+  "version": "1.0.0",
+  "description": "test njs",
+  "main": "js.js",
+  "author": "tester",
+  "license": "MIT"
+}
